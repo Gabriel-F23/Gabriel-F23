@@ -1,6 +1,6 @@
 ### Hello!, I'm Gabriel Freitas 👍
 
-##About me
+## About me
 I'm a programmer with a degree in Information Technology from SENAC RJ. I live in Rio de Janeiro and I'm a Bachelor's student in Physics at UFRJ. My focus in the technology field revolves around artificial intelligence, computational physics, and related areas.
 
 ## Technologies that I am learning.
