@@ -1,6 +1,9 @@
-### Oi!, Eu sou Gabriel Freitas 👍
+### Hello!, I'm Gabriel Freitas 👍
 
-## Tecnologias que estou aprendendo
+##About me
+I'm a programmer with a degree in Information Technology from SENAC RJ. I live in Rio de Janeiro and I'm a Bachelor's student in Physics at UFRJ. My focus in the technology field revolves around artificial intelligence, computational physics, and related areas.
+
+## Technologies that I am learning.
 
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
