@@ -4,13 +4,18 @@
 Olá! Eu me chamo Gabriel Freitas 👍<br>
 
 Sou um programador com formação em técnico em informática pelo SENAC RJ. Resido no Rio de Janeiro e sou estudante do Bacharelado em Física da UFRJ. 
-Meu foco na área de tecnologia está voltado para inteligência artificial, física computacional e áreas correlacionadas.
+Meu foco na área de tecnologia está voltado para inteligência artificial, física computacional e áreas correlacionadas.<br>
+
+🌱 Atualmente estou aprendendo Java e Python.
+
 
 ## English
 Hello! I'm Gabriel Freitas 👍<br>
 
 I'm a programmer with a degree in Information Technology from SENAC RJ. I live in Rio de Janeiro and I'm a Bachelor's student in Physics at UFRJ. 
-My focus in the technology field revolves around artificial intelligence, computational physics, and related areas.
+My focus in the technology field revolves around artificial intelligence, computational physics, and related areas.<br>
+
+🌱 I’m currently learning Java and Python.
 
 ## Tecnologias que estou aprendendo. / Technologies that I am learning.
 
