@@ -3,7 +3,7 @@
 ## Português
 Olá! Eu me chamo Gabriel Freitas 👍<br>
 
-Olá, me chamo Gabriel Freitas. Sou um programador com formação em técnico em informática pelo SENAC RJ. Resido no Rio de Janeiro e sou estudante do Bacharelado em Física da UFRJ. 
+Sou um programador com formação em técnico em informática pelo SENAC RJ. Resido no Rio de Janeiro e sou estudante do Bacharelado em Física da UFRJ. 
 Meu foco na área de tecnologia está voltado para inteligência artificial, física computacional e áreas correlacionadas.
 
 ## English
