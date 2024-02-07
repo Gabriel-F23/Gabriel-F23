@@ -17,7 +17,7 @@ My focus in the technology field revolves around artificial intelligence, comput
 
 🌱 I’m currently learning Java and Python.
 
-### Linguagens e Ferramentas. / Languages and Tools.
+## Linguagens e Ferramentas. / Languages and Tools.
 <p align="left">
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
