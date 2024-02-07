@@ -1,5 +1,3 @@
-
-
 ## Português
 Olá! Eu me chamo Gabriel Freitas 👍<br>
 
@@ -24,4 +22,7 @@ My focus in the technology field revolves around artificial intelligence, comput
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
+## Github
+![Gabriel Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-F23&show_icons=true&theme=dracula)
 
